@@ -1,0 +1,25 @@
+name: "Mywebsite"
+title: "Shreyas Mahendra"
+type: inverse
+left:
+  - text: "About me"
+    menu:
+      - text: "Learn more about me"
+        href: ./aboutme.html
+  - text: "Portfolio"
+    menu:
+       - text: "Project part 1"
+         href: ./project1.html
+       - text: "Project part 2"
+         href: ./project2.html
+  - text: "Contact"
+    href: ./contact.html
+right:
+  - icon: fa fa-envelope
+    href: https://github.com/ShreyasM06/shreyasm.github.io/blob/main/Resume.pdf
+  - icon: fa-solid fa-file-word
+    href: https://github.com/ShreyasM06/shreyasm.github.io/blob/main/Shreyas_Mahendra(c).docx?raw=true
+  - icon: fa-github fa-lg
+    href: https://github.com/githubusername/mywebsite
+  - icon: fab fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/shreyas-mahendra-a6406b100
