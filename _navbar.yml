@@ -8,18 +8,18 @@ left:
         href: ./aboutme.html
   - text: "Portfolio"
     menu:
-       - text: "Project part 1"
+       - text: "Project 1"
          href: ./project1.html
-       - text: "Project part 2"
+       - text: "Project 2"
          href: ./project2.html
   - text: "Contact"
     href: ./contact.html
 right:
   - icon: fa fa-envelope
-    href: https://github.com/ShreyasM06/shreyasm.github.io/blob/main/Resume.pdf
+    href: mailto:<shreyas_mahendra@outlook.com>
   - icon: fa-solid fa-file-word
-    href: https://github.com/ShreyasM06/shreyasm.github.io/blob/main/Shreyas_Mahendra(c).docx?raw=true
+    href: https://github.com/ShreyasM06/shreyasm.github.io/blob/main/Shreyas_Mahendra.docx?raw=true
   - icon: fa-github fa-lg
-    href: https://github.com/githubusername/mywebsite
+    href: https://github.com/shreyasmahendra06/PedestrianPrediction
   - icon: fab fa-linkedin fa-lg
     href: https://www.linkedin.com/in/shreyas-mahendra-a6406b100
